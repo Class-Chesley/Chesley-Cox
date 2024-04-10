@@ -20,7 +20,8 @@
 |-----:|--------------------------|
 |     1| Github hands-on exercise |
 |     2| course readings          |
-|     3| staying sane!            |
+|     3| assignments              |
+|     4| staying sane!            |
 
 </details>
 
@@ -32,5 +33,13 @@
 - Baldur's Gate 3
 - gardening
 - learning about library roles, disciplines, and processes!
+
+</details>
+
+<details><Summary> 🔎 Things to peruse later</Summary>
+
+- The ISBN, ISSN, etc. repo [STDNBR2LCC](https://github.com/Geremia/STDNBR2LCC])
+  - potentially useful for the digital records of my personal library, as well as understanding LCC in general
+- 
 
 </details>
