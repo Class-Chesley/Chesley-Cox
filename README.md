@@ -40,6 +40,8 @@
 
 - The ISBN, ISSN, etc. repo [STDNBR2LCC](https://github.com/Geremia/STDNBR2LCC])
   - potentially useful for the digital records of my personal library, as well as understanding LCC in general
-- 
-
+- [Awesome-Datascience](https://github.com/academic/awesome-datascience)
+  - for learning how to do more of this stuff lol
 </details>
+
+# FIN FOR NOW
